@@ -27,5 +27,9 @@
 ## 使用技術
 Nuxt.js  
 firebase
+
 ## 備考  
 ※Railsは使用しないため、画面遷移図にDBを記載
+
+## 画面遷移図  
+https://www.figma.com/file/mn0W6cqfyeLX3a1gfkSjtY/Uma-Calculator?node-id=0%3A1

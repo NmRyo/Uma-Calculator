@@ -32,4 +32,4 @@ firebase
 ※Railsは使用しないため、画面遷移図にDBを記載
 
 ## 画面遷移図  
-https://www.figma.com/file/mn0W6cqfyeLX3a1gfkSjtY/Uma-Calculator
+https://www.figma.com/file/mn0W6cqfyeLX3a1gfkSjtY/Uma-Calculator?node-id=0%3A1
